@@ -5,7 +5,7 @@
 #include <semaphore.h>
 #include <pthread.h>
 
-int count = 0;
+int count = 5;
 
 char *sastojci[] = {"duvan", "rizle", "sibice"};
 
